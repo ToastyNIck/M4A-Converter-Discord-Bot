@@ -1,7 +1,7 @@
 # M4A-Converter-Discord-Bot
 This discord bot is to convert M4A Files to MP3 optimal if people are sharing voice files from their devices. Good for Voice Actors to send files in the Discord server.
 
-## This bot is made by CHY4E#0505
+## This bot is made by CHY4E#0505 All credits go to him
 
 This bot to convert files from M4A to MP3. Simple as that.
 
